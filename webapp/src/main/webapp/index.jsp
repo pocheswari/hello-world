@@ -7,6 +7,9 @@
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     
+    <label for="DOB"><b>Email</b></label>
+    <input type="DOB" placeholder="Enter Email" name="number" id="date" required>
+    
     <label for="Name"><b>Name</b></label>
     <input type="text" placeholder="Enter Name" name="Name" id="Name" required>
     
